@@ -1,5 +1,5 @@
-# badminton-tutorials
+# badminton-tutorials Deploy
 
-羽毛球教程公开站部署仓库（仅构建产物）。
+自动部署于 2026-09-22 06:40:03 UTC
 
-访问：https://niceaitools.github.io/badminton-tutorials/
+访问: https://niceaitools.github.io/badminton-tutorials/
